@@ -31,3 +31,7 @@ H
 discovery-server/pom.xml,2\c\2c58c7878e43d126fc56cae853d5b06de57d0b3e
 ç
 ]discovery-server/src/main/java/com/carlosbrrs/discoveryserver/DiscoveryServerApplication.java,1\c\1c5fc318911868fb24321f06f3b014d875d571d2
+C
+api-gateway/pom.xml,2\b\2bfa2b108f2439e99e004f4085b58c22cf995f73
+~
+Napi-gateway/src/main/java/com/carlosbrrs/apigateway/ApiGatewayApplication.java,6\d\6da46a034e529c65ab0b9ebe0fa4e0b78bdffa7e
