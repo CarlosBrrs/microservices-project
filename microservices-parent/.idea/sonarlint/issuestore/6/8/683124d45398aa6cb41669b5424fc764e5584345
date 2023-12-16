@@ -1,0 +1,10 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(­¼èÿÿÿÿÿ8ñÉªÇ1
+_
+java:S1874&"BRemove this use of "withDefaultPasswordEncoder"; it is deprecated.(¿•¿8òÉªÇ1
+O
+java:S16110"3Remove the parentheses around the "authz" parameter(ıÑ”?8õÉªÇ1
+
+java:S1128"€Remove this unused import 'org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder'.(£ØÓ‰8öÉªÇ1
+z
+java:S1128"]Remove this unused import 'org.springframework.security.crypto.password.NoOpPasswordEncoder'.(ƒ»ÅÅ8÷ÉªÇ1

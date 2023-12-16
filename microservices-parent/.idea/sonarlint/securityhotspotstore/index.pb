@@ -35,3 +35,9 @@ C
 api-gateway/pom.xml,2\b\2bfa2b108f2439e99e004f4085b58c22cf995f73
 ~
 Napi-gateway/src/main/java/com/carlosbrrs/apigateway/ApiGatewayApplication.java,6\d\6da46a034e529c65ab0b9ebe0fa4e0b78bdffa7e
+d
+4api-gateway/src/main/java/config/SecurityConfig.java,f\0\f07d3c9fb8a3df4e05c5413d704bbfff3d4adfbd
+è
+_discovery-server/src/main/java/com/carlosbrrs/discoveryserver/config/SecurityConfiguration.java,0\9\09c687611c117e96ec9358853234e33d61442f42
+à
+Xdiscovery-server/src/main/java/com/carlosbrrs/discoveryserver/config/SecurityConfig.java,6\8\683124d45398aa6cb41669b5424fc764e5584345
