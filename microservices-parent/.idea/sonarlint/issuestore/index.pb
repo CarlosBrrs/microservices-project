@@ -45,3 +45,13 @@ Xdiscovery-server/src/main/java/com/carlosbrrs/discoveryserver/config/SecurityCo
 Worder-service/src/main/java/com/carlosbrrs/orderservice/controller/OrderController.java,9\3\93c7be6b15d7568abfaad97d307fc0f784339741
 B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+ƒ
+Sorder-service/src/main/java/com/carlosbrrs/orderservice/event/OrderPlacedEvent.java,4\a\4a0e554a0b32abbeb7f9eca4aabf98f4dd9499cf
+L
+notification-service/pom.xml,0\1\01f9e880c9ba9f01d23d7605950269a1f1661129
+…
+Unotification-service/src/main/java/com/carlosbrrs/NotificationServiceApplication.java,d\4\d45e713a171234470144a1b8595ed396467c8faa
+k
+;notification-service/src/main/java/com/carlosbrrs/Main.java,d\b\db7e28fae23b4ea0960cbea0fee9ec7084ed32a8
+w
+Gnotification-service/src/main/java/com/carlosbrrs/OrderPlacedEvent.java,f\a\fa277cb5d388ab7d11c66873725d77ce92e2751b
