@@ -1,0 +1,12 @@
+com\carlosbrrs\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\carlosbrrs\orderservice\model\OrderLineItems.class
+com\carlosbrrs\orderservice\OrderServiceApplication.class
+com\carlosbrrs\orderservice\event\OrderPlacedEvent.class
+com\carlosbrrs\orderservice\controller\OrderController.class
+com\carlosbrrs\orderservice\model\Order.class
+com\carlosbrrs\orderservice\service\OrderService.class
+com\carlosbrrs\orderservice\dto\OrderLineItemsDto.class
+com\carlosbrrs\orderservice\repository\OrderRepository.class
+com\carlosbrrs\orderservice\config\WebClientConfig.class
+com\carlosbrrs\orderservice\dto\OrderRequest.class
+com\carlosbrrs\orderservice\dto\InventoryResponse.class

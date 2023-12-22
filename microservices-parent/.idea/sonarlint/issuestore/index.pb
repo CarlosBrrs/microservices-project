@@ -55,3 +55,5 @@ k
 ;notification-service/src/main/java/com/carlosbrrs/Main.java,d\b\db7e28fae23b4ea0960cbea0fee9ec7084ed32a8
 w
 Gnotification-service/src/main/java/com/carlosbrrs/OrderPlacedEvent.java,f\a\fa277cb5d388ab7d11c66873725d77ce92e2751b
+F
+api-gateway/Dockerfile,9\5\9548e2ce3bdfe112d8c757987e1beebc1ecab5ed
