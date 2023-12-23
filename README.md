@@ -1,1 +1,2 @@
-# microservices-full-project
+# microservices-project
+Spring 3 demo with microservices, sync/async communication, containerizing, OAuth2.0, Spring Security...
